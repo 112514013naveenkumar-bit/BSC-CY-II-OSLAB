@@ -3,8 +3,8 @@
 int main()
 {
     printf("Current Directory\n");
-    system("pwd");s
-    printf("\nfiles\n");
+    system("pwd");
+    printf("\nfile\n");
     system("ls-l");
     printf("\nCreating Directory\n");
     system("mkdir Demo");
